@@ -1,5 +1,3 @@
-USE [BUDT703_Project_0506_06];
-
 BEGIN TRANSACTION;
 
 DROP TABLE IF EXISTS [Master_Lee's.Order];
