@@ -1,5 +1,3 @@
-USE [BUDT703_Project_0506_06];
-
 BEGIN TRANSACTION;
 
 GO
@@ -161,4 +159,3 @@ HAVING COUNT(cstId) > 1
 
 GO
 COMMIT;
-
