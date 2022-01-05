@@ -1,5 +1,5 @@
 **1. Background** <br />
-Starving Terps Inc. is an analytics consulting company recently hired by Master Lee’s Pizza Joint to help provide recommendations on opening a successful, local pizza place in College Park. The goal was to analyze existing pizza restaurants in the College Park area and identify trends that provided increased customer satisfaction.
+*Starving Terps Inc.* is an analytics consulting company recently hired by Master Lee’s Pizza Joint to help provide recommendations on opening a successful, local pizza place in College Park. The goal was to analyze existing pizza restaurants in the College Park area and identify trends that provided increased customer satisfaction.
  
 **2. Mission Objectives** <br />
 Starving Terps Inc.’s primary goal was to identify attributes of successful pizza restaurants in the local area. The next step was to collect this information and store it in a MS SQL Server database and conduct a thorough analysis of restaurant attributes, customer reviews and ratings and external service platforms that contribute to the success of these existing restaurants. Lastly, the analysis results were visualized in a Tableau dashboard to present to Master Lee’s Pizza Joint as recommendations for the new restaurant’s planning process. 
